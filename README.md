@@ -14,8 +14,10 @@ Forming multiple digit numbers from the supplied digits is disallowed. (So an an
 The order of the digits when given does not have to be preserved.
 
 ## Usage
-The technology stack is consisted of ES2015 + less + websocket. 
-
+The technology stack is consisted of ES2015 + less + websocket. Use it with following command:
+```
+>> npm start
+```
 Enjoy~
 
 
