@@ -1,5 +1,5 @@
 # The 24Points Game
-24Points Game using Javascript and websocket. This works as the first demo for my `webpack-config` project.
+24Points Game using Javascript and websocket. This works as the first demo for my [webpack-config](https://github.com/wheelo/webpack-config) project.
 
 ## Description
 Tips:
