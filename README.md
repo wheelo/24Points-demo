@@ -1,7 +1,7 @@
-# webpack-config
+# The 24Points Game
 24Points Game using Javascript and websocket. This works as the first demo for my `webpack-config` project.
 
-## The 24Points Game
+## Description
 Tips:
 
 You are randomly given four digits, each from one to nine, with repetitions allowed.
@@ -34,7 +34,7 @@ The technology stack is consisted of ES2015 + less + websocket. Use it with the 
 
 Enjoy~
 
-## todo
+## Todo
 - [ ] modify the main algorithm
 - [ ] TDD supportive
 - [ ] websocket supportive
