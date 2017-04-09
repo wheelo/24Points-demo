@@ -18,7 +18,7 @@ var entries = {
     '24Points': srcPath + '/index.js'
 };
 
-// 两个环境变量env1 与 env2
+
 module.exports = {
         // 不同的入口，做各端打包
         entry: entries,
