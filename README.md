@@ -27,7 +27,7 @@ Note: Although we will enter 4 integers between 1 and 9, we will use doubles to 
 
 
 ## Usage
-The technology stack is consisted of ES2015 + less + websocket. Use it with following command:
+The technology stack is consisted of ES2015 + less + websocket. Use it with the following command:
 ```
 >> npm start
 ```
@@ -35,8 +35,8 @@ The technology stack is consisted of ES2015 + less + websocket. Use it with foll
 Enjoy~
 
 ## todo
-- [] modify the main algorithm
-- [] TDD supportive
-- [] websocket supportive
+- [ ] modify the main algorithm
+- [ ] TDD supportive
+- [ ] websocket supportive
 
 
